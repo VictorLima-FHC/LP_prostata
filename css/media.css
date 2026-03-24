@@ -276,6 +276,10 @@
     align-items: start;
   }
 
+.s6 .s6-item  {
+  align-items: center;
+}
+
   .s9 .s9-references h3 {
     font-size: 12px;
   }
